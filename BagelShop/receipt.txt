@@ -1,0 +1,13 @@
+**********WELCOME TO SHERIDAN BAGEL SHOP**********
+Wed Aug 08 14:02:30 EDT 2018
+Item:			Qty	Amount
+White Bagel		4	5.0
+Toppings:
+  Cream Cheese		4	2.0
+  Blueberry Jam		4	3.0
+Cappaccino Coffee		2	4.0
+				-----------
+Pretax Total			$ 10.25
+Sales Tax 13%			$ 1.33
+Total Sale   			$ 11.58
+*********THANK YOU FOR YOUR ORDER*********
